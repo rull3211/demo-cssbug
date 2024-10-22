@@ -1,0 +1,23 @@
+.daForm,
+.daFormFields,
+.daFormRadio {
+  display: flex;
+  flex-direction: column;
+}
+
+.daForm {
+  gap: 1rem;
+}
+
+.daFormButton {
+  padding: 0.5rem 1rem;
+  margin-top: 2rem;
+  background-color: rgba(32, 32, 241, 0.864);
+  border: none;
+  border-radius: 0.2rem;
+}
+
+.daFormRadioAlt {
+  display: flex;
+  flex-direction: column;
+}
